@@ -17,5 +17,5 @@ Using `make`:
 
 ## Similar project with different WMs
 
-* [i3-Gnome](https://github.com/i3-gnome/i3-gnome)
-* [bspwm-Gnome](https://github.com/simrat39/bspwm-gnome)
+* [i3-gnome](https://github.com/i3-gnome/i3-gnome)
+* [bspwm-gnome](https://github.com/simrat39/bspwm-gnome)
