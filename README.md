@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://awesomewm.org/images/awesome-logo.svg">
 </p>
-
+ 
 ## What do I get by installing it?
 - A way to manage GNOME things such as your cursor/icon, (GTK) themes and online accounts.
 - A friendly bridge that keeps your stuff from GNOME in an awesome environment.
@@ -27,3 +27,10 @@ Using `make`:
 
 * [i3-gnome](https://github.com/i3-gnome/i3-gnome)
 * [bspwm-gnome](https://github.com/simrat39/bspwm-gnome)
+
+## neofetch
+
+
+<p align="center">
+    <img src="https://i.imgur.com/5Bo5iGk.png">
+</p>
