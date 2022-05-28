@@ -20,6 +20,8 @@ Using `make`:
 * `cd awesome-gnome`
 * `sudo make install`
 
+## If you want to do all of this at once, we can chain the commands like so:
+* `git clone https://github.com/hrdkmishra/awesome-gnome.git && cd awesome-gnome && sudo make install`
 ## Uninstallation
 * `sudo make uninstall`
 
